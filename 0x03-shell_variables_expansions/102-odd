@@ -1,0 +1,2 @@
+#!/bin/bash
+paste -d, - - | cutm-d, -f1
